@@ -1,24 +1,34 @@
 # Equipment
 
+## Currency Mapping
+
+Hyrule and its sister planes usually use Rupees as their currency. I generally map currencies according to the listing below for reasons that should be rather obvous. Most things are priced in silver or gold, so it makes sense not to change these if at all possible.
+
+    Copper   -> Rupee (Green)  
+    Silver   -> Silver Rupee  
+    Electrum -> Purple Rupee  
+    Gold     -> Gold Rupee  
+    Platinum -> Giant Rupee
+
 ## Armor and Weapons
 
 In the realms of the godesses there are a variety of unique armor and weapons to find. There are also a lot of creatures that can eat or destroy your beloved items, so take care!
 
-**Wooden Shield - 3 Gold**  
-+1 AC; 2 lbs. A small, light shield made of wood and branded with an emblem or symbol. When this shield is equipped and the wielder takes damage of the fire type roll a d20: if the number is less than 11 the Wooden Shield is burnt to ashes and permanently destroyed.
+**Wooden Shield - 2 Gold**  
++1 AC; 3 lbs. A small, light shield made of wood and branded with an emblem or symbol. When this shield is equipped and the wielder takes damage of the fire type roll a d20: if the number is less than 11 the Wooden Shield is burnt to ashes and permanently destroyed.
 
-**Small Shield - 6 Gold**  
+**Small Shield - 4 Gold**  
 +1 AC; 4 lbs. A small, unassuming, iron shield.
 
 **Hylian Shield - 10 Gold**  
 +2 AC; 6 lbs. A solid shield made of Hylian steel. Usually decorated to show the status of the wielder.
 
 **Red Shield - 25 Gold**  
-+2 AC; 7 lbs. A steel shield of high quality, decorated with rich red hues. Because of the thick red lacquer coating the shield, it cannot be digested by monsters who eat metal.
++2 AC; 8 lbs. A steel shield of high quality, decorated with rich red hues. Because of the thick red lacquer coating the shield, it cannot be digested by monsters who eat metal.
 
 ## Bottles and Liquids
 
-Nothing is more rare and precious than a glass bottle. In other realms you can buy glass bottles by the boatload, but in the realms of the goddesses these items are harder to come by. The skills and resources to make glass are rare, so glass bottles of any kind are hard to find. Most shopkeepers just expect that you bring your own container, because they certainly aren't going to part with any of their glassware.
+Nothing is more rare and precious than a glass bottle. In other realms you can buy glass bottles by the case, but in the realms of the goddesses these items are harder to come by. The skills and resources to make glass are rare, so glass bottles of any kind are hard to find. Most shopkeepers just expect that you bring your own container, because they certainly aren't going to part with any of their glassware.
 
 Glass bottles hold up to 1 1/2 pints of liquid, usually must be strapped to the outside of your pack, and weigh just a few ounces empty. These are just a few of the things you can put in a glass bottle:
 
@@ -44,7 +54,7 @@ Functions the same as a Red Potion, except only one can be kept in a bottle. If 
 A character who drinks this magical green liquid regains up to 1d4+2 sorcery points worth of spell slots, as long as they have empty spell slots to gain. This can be used by any class with spell slots. For Warlocks, this always restores exactly one spell slot. You can keep up to 6 uses in a bottle. Drinking or administering a potion takes an action.
 
 **Lon Lon Milk - 10 Gold**  
-Drinking or administering this takes an action. This satisfies the daily food and water needs of a character and relieves one level of exhaustion. You can keep 1 use in a bottle.
+-- Redesign --
 
 **Oil - 1 Silver**  
 See player's handbook. You can keep up to 1 use in a bottle.

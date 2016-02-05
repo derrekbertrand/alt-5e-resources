@@ -29,3 +29,9 @@ There are two alternative character sheets: one for casters, and another for non
   - Massive free-form area for notes on Features and Traits.
 - **For Casters:**
   - Dedicated Features and Traits area to spell notes and boxes to keep casting info.
+
+## Campaign Settings
+
+Campaign setting resources are located in their respective folder. If you are used to viewing markdown, you can look at the individual chapters in plain text or a browser. The resources are in the src folder. There is a folder for each document, and a markdown metadata header for each one as well.
+
+If you have XeTeX, pandoc, and the required fonts installed; you can run the pdfgen.sh script, which generates complete PDF documents from the source files. If there is a demand, I'll set up a server that can host the complete PDFs, but as of now there's no good reason to do so.
