@@ -254,4 +254,4 @@ You can speak, read, and write Common and Zora.
 River Zora are the more aggressive subrace. They are known to attack travelers from the waterways of Hyrule. DM permission required.
 
 **Fireball:**
-River Zora do not have the Electrical Defense attribute. Instead they have the natural ability to spit fireballs. – INSERT SPELL DESCRIPTION --
+River Zora do not have the Electrical Defense attribute. Instead they have the natural ability to spit fireballs. -- INSERT SPELL DESCRIPTION --

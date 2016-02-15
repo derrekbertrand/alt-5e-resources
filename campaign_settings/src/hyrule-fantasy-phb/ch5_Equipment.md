@@ -2,7 +2,7 @@
 
 ## Currency Mapping
 
-Hyrule and its sister planes usually use Rupees as their currency. I generally map currencies according to the listing below for reasons that should be rather obvous. Most things are priced in silver or gold, so it makes sense not to change these if at all possible.
+Hyrule and its sister planes usually use Rupees as their currency. I generally map currencies according to the listing below for reasons that should be rather obvious. Most things are priced in silver or gold, so it makes sense not to change these if at all possible.
 
     Copper   -> Rupee (Green)  
     Silver   -> Silver Rupee  
@@ -12,7 +12,7 @@ Hyrule and its sister planes usually use Rupees as their currency. I generally m
 
 ## Armor and Weapons
 
-In the realms of the godesses there are a variety of unique armor and weapons to find. There are also a lot of creatures that can eat or destroy your beloved items, so take care!
+In the realms of the goddesses there are a variety of unique armor and weapons to find. There are also a lot of creatures that can eat or destroy your beloved items, so take care!
 
 **Wooden Shield - 2 Gold**  
 +1 AC; 3 lbs. A small, light shield made of wood and branded with an emblem or symbol. When this shield is equipped and the wielder takes damage of the fire type roll a d20: if the number is less than 11 the Wooden Shield is burnt to ashes and permanently destroyed.
@@ -48,7 +48,7 @@ This magical blue flame burns even in the absence of oxygen or material to oxidi
 This potion restores the same as both a red and green potion combined (calculate both their effects). You can keep up to 6 uses in a bottle.
 
 **Fairy's Spirit - 200 Gold**  
-Functions the same as a Red Potion, except only one can be kept in a bottle. If the bearer's HP falls below 1, the effect is activated immediately after damage is dealt. If the player is unstable, their condition is stablized.
+Functions the same as a Red Potion, except only one can be kept in a bottle. If the bearer's HP falls below 1, the effect is activated immediately after damage is dealt. If the player is unstable, their condition is stabilized.
 
 **Green Potion - 100 Gold**  
 A character who drinks this magical green liquid regains up to 1d4+2 sorcery points worth of spell slots, as long as they have empty spell slots to gain. This can be used by any class with spell slots. For Warlocks, this always restores exactly one spell slot. You can keep up to 6 uses in a bottle. Drinking or administering a potion takes an action.

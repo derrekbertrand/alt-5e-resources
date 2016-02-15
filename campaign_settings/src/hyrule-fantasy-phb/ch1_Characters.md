@@ -34,7 +34,7 @@ Kokiri (+1)
 
 ## Languages of Hyrule
 
-The land of Hyrule and the other realms of the goddesses share common languages, but these differ from stock DnD in many ways see the below reference for standard languages in the realms of the godesses.
+The land of Hyrule and the other realms of the goddesses share common languages, but these differ from stock DnD in many ways see the below reference for standard languages in the realms of the goddesses.
 
 **Common:**
 This is the common tongue of the realm, generally spoken by human races. Other races may also use this language to communicate, and probably learned it from the humans.
@@ -52,16 +52,16 @@ Language of the mountain people, the Gorons. Goron uses Goron Script.
 See common.
 
 **Kokiri:**
-The Kokiri language is derived from Sylvan (an exotic language). Although it uses common Script, its ancestry is Sylvan.
+The Kokiri language is the language of the forest children. Although it uses common script, its ancestry is Sylvan.
 
 **Sheikah:**
-Sheikah is the language of the deep ones from under Kakariko. It uses Sheikah script.
+Sheikah is the language of the deep ones from under Kakariko. It uses common script.
 
 **Terminian:**
 See common.
 
 **Twili:**
-It is rare that anyone outside of the Twilight Tribe learns this language. Without any native speakers, it has become useful only for reading Twili texts. Twili uses Sheikah Script.
+It is rare that anyone outside of the Twilight Tribe learns this language. Without any native speakers, it has become useful only for reading Twili texts. Twili uses Twili Script. This is considered an exotic language.
 
 **Zora:**
-Zora speak a language that carries well underwater, but usually learn common for speech above. Zora is written in Zora script.
+Zora speak a language that carries well underwater, but usually learn common for speech above. Zora is written in common script.
