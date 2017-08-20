@@ -1,5 +1,25 @@
 # Races
 
+## Deku
+
+*“”*
+
+
+### Deku Traits
+
+**Ability Score Increase:**
+Your Charisma score and Dexterity score both increase by 1.
+
+**Age:** Gerudo mature in their late teens and rarely live to see a century. Most can hope to live into their 60s if they are careful.
+Alignment: There are no real restrictions on the alignment of Gerudo.
+
+**Size:** Anywhere from 5 to 6 feet tall, maybe more. They can weigh anywhere from 100 to 250 pounds. Your size is medium.
+
+**Speed:** Your base walking speed is 30 feet.
+
+**Languages:** You can read, write, and speak Common and Gerudo.
+
+
 ## Gerudo
 
 *“Gerudos are beautiful and brave...
