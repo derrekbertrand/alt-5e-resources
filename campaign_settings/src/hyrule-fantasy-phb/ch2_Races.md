@@ -228,23 +228,28 @@ Zora are hearty, intelligent adventurers who can take up a number of trades. Bec
 ### Zora Traits
 
 **Ability Score Increase:**
-Your intelligence increases by 2; your constitution increases by 1.
-Age: Zora age at the same rate as humans, but can live up to 200 years.
+Your Intelligence increases by 1; your Constitution increases by 1; your Wisdom increases by 1.
+
+**Age:**
+Zora age at the same rate as humans, but can live up to 200 years.
 
 **Alignment:**
-Zora tend towards lawful, but all alignments can be found among the Zora.
+Zora tend towards lawful, and their culture pushes them towards good. Evil and chaotic alignments are extremely rare among Zora.
 
 **Size:**
-Anywhere from 5 to 6 feet tall, maybe more. They can weigh anywhere from 100 to 200 pounds. Your size is medium.
+Anywhere from 6 to 7 feet tall, maybe more. They can weigh anywhere from 100 to 200 pounds. Your size is medium.
 
 **Aquatic:**
-Zora can breathe under water as if on land. Zora have a swim speed of 30.
+Zora can breathe air and water.
 
 **Electrical Defense:**
-If hit by a metal melee weapon or an unarmed attack, a Zora may use its reaction to cast Shocking Grasp cantrip on the attacker without verbal or somatic components. Intelligence is your spellcasting attribute. You can do this once before requiring a long rest.
+After taking damage from a metal melee weapon or an unarmed attack, a Zora may use its reaction to cast the *Shocking Grasp* cantrip on the attacker without verbal or somatic components. Intelligence is your spellcasting attribute, and the caster level is your character's level total. You can do this once before requiring a short rest.
+
+**Temperature Sensitive:**
+The Zora are not used to fire, it typically being an impossibility in water. Zora have weakness to fire damage.
 
 **Speed:**
-Your base walking speed is 30 feet.
+Your base walking speed is 30 feet, and your swimming speed is 30 feet.
 
 **Languages:**
 You can speak, read, and write Common and Zora.
