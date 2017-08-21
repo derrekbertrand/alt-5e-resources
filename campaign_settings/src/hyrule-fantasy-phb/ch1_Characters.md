@@ -24,6 +24,7 @@ Sheikah (+1)
 Zora (+2)
 
 **Wisdom**  
+Deku (+2)  
 Hylain (+1)  
 Kokiri (+2)
 
