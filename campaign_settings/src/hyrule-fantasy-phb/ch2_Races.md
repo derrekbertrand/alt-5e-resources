@@ -2,13 +2,15 @@
 
 ## Deku
 
-*“”*
+*“But Deku Scrubs are supposed to
+like rain. At least one of us has
+reason to be happy...”*
 
 
 ### Deku Traits
 
 **Ability Score Increase:**
-Your Charisma score and Dexterity score both increase by 1.
+Your Wisdom score and Dexterity score both increase by 1.
 
 **Age:** Gerudo mature in their late teens and rarely live to see a century. Most can hope to live into their 60s if they are careful.
 Alignment: There are no real restrictions on the alignment of Gerudo.
@@ -38,24 +40,29 @@ The Gerudo are a flexible race that could take up any occupation, although they 
 **Ability Score Increase:**
 Your Charisma score and Dexterity score both increase by 1.
 
-**Age:** Gerudo mature in their late teens and rarely live to see a century. Most can hope to live into their 60s if they are careful.
-Alignment: There are no real restrictions on the alignment of Gerudo.
+**Age:**
+Gerudo mature in their late teens and rarely live to see a century. Most can hope to live into their 60s if they are careful.
 
-**Size:** Anywhere from 5 to 6 feet tall, maybe more. They can weigh anywhere from 100 to 250 pounds. Your size is medium.
+**Alignment:**
+There are no real restrictions on the alignment of Gerudo.
 
-**Speed:** Your base walking speed is 30 feet.
+**Size:**
+Anywhere from 5 to 6 feet tall, maybe more. They can weigh anywhere from 100 to 250 pounds. Your size is medium.
 
-**Languages:** You can read, write, and speak Common and Gerudo.
+**Speed:**
+Your base walking speed is 30 feet.
 
-**Gerudo Training Grounds:** You choose one of the following two bonuses:
+**Languages:**
+You can read, write, and speak Common and Gerudo.
+
+**Gerudo Training Grounds:**
+You choose one of the following two bonuses:
 
 - Proficiency with Scimitars and the Defensive Duelist Feat.
 - Proficiency with Glaives and the Polearm Master Feat.
 
-**Gerudo Charm:** You have a +2 bonus to deception and persuasion checks. You can use this once before requiring a long rest.
-
 ### Gerudo Males
-A true Gerudo male is born only about once a century. Players may play a male Gerudo if they desire; however, the character is technically a partial-Gerudo for lineage purposes.
+A true Gerudo male is born only about once a century. This doesn't mean that Gerudo don't have male children, only that they look strongly Hylian and aren't trained with the same care that Gerudo women are.
 
 \cleardoublepage
 
@@ -76,7 +83,7 @@ With their superior strength, fire resistance, and fighting ability, they make g
 ### Goron Traits
 
 **Ability Score Increase:**
-Your constitution score increases by 1; your strength score increases by 2.
+Your Constitution score increases by 1; your Strength score increases by 2.
 
 **Age:**
 Gorons age at the same rate as humans, but on average live 150 years.
@@ -208,7 +215,7 @@ Sheikah could be well suited to many different trades. One should not discount t
 ### Sheikah Traits
 
 **Ability Score Increase:**
-Your dexterity and intelligence increase by 1.
+Your Dexterity and Intelligence increase by 1.
 
 **Age:**
 Sheikah can live for hundreds of years, though perhaps not in the greatest of health.
@@ -248,7 +255,7 @@ Zora are hearty, intelligent adventurers who can take up a number of trades. Bec
 ### Zora Traits
 
 **Ability Score Increase:**
-Your Intelligence increases by 1; your Constitution increases by 1; your Wisdom increases by 1.
+Your Intelligence increases by 1; your Constitution increases by 1.
 
 **Age:**
 Zora age at the same rate as humans, but can live up to 200 years.
