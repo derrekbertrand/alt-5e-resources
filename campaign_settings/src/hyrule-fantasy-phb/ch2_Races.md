@@ -1,26 +1,64 @@
 # Races
 
-## Deku
+## Forest Spirits
 
-*“But Deku Scrubs are supposed to
-like rain. At least one of us has
-reason to be happy...”*
+*“The children of the forest, the
+Kokiri, live here with me.”*
 
+Referred to as the children of the forest, the Kokiri are forest spirits born from ancient trees in the deep forests of Hyrule. Being spirits of the forest, they can live practically indefinitely. They do not age, but remain children in form. This may lead to horrible misconceptions about their wisdom.
 
-### Deku Traits
+It is said that if children become lost in the sacred forest, that they could become Kokiri. However, they could also become a Stalkid (Skull Kid) if they do not have the blessings of the forest spirits.
+
+Most Kokiri never leave their villages or the safety of the forbidden forest. Hylians that don't live on the edges of the sacred forest might not have met anyone who has seen a Kokiri. Moreover most residents of Hyrule might mistake a Kokiri for a Hylian child.
+
+They live as embodiments of nature, and spend most of their time taking care of the forest and its animal inhabitants. Occasionally the desire to perform some greater task will cause a Kokiri to leave the sacred forest, but these occurrences are rather rare.
+
+The Kokiri's stealthy nature, wisdom, and charisma make them suited to casting, trading, thieving, or acting as an agent.
+
+### Forest Spirit Traits
 
 **Ability Score Increase:**
-Your Wisdom score and Dexterity score both increase by 1.
+Your Wisdom increases by 2.
 
-**Age:** Gerudo mature in their late teens and rarely live to see a century. Most can hope to live into their 60s if they are careful.
-Alignment: There are no real restrictions on the alignment of Gerudo.
+**Age:**
+As a forest spirit, they can live 200 years or more. Their life force is tied to the forest they originated from.
 
-**Size:** Anywhere from 5 to 6 feet tall, maybe more. They can weigh anywhere from 100 to 250 pounds. Your size is medium.
+**Alignment:**
+There are few Evil Forest Spirits, and they don't float to idealistic extremes either. Most Forest Spirits would be considered true good or true neutral. 
 
-**Speed:** Your base walking speed is 30 feet.
+**Size:**
+Forest Spirits are usually 5 feet tall or less and less than 100 pounds. Your size is small.
 
-**Languages:** You can read, write, and speak Common and Gerudo.
+**Speed:**
+Your base walking speed is 25 feet.
 
+**Languages:**
+You can read, write, and speak Common. You can speak Sylvan.
+
+**Natural Attunement:**
+You are a spirit of nature. Beasts, plants, and other natural creatures react to you one step more positively.
+
+**Natural Tools:**
+You are familiar with using plants and animals to create various effects. You gain proficiency with your choice of Herbalism Kits or Poisoner's Kits.
+
+**Subrace:**
+Forest Children may manifest in various ways, and the commonality of these depends on location and realm. You choose one subrace.
+
+### Deku
+
+**Wooden Body:**
+Your body is wooden in nature. You have weakness to Fire damage.
+
+### Kokiri
+
+The adorable Kokiri, the children of the forest, eternally appear to be Hylian children.
+
+**Ability Score Increase:**
+Your Charisma increases by 1.
+
+### Korok
+
+\cleardoublepage
 
 ## Gerudo
 
@@ -150,52 +188,6 @@ Your base walking speed is 30 feet.
 
 **Languages:**
 You know common. You can pick another standard language for your character to speak, read, and write.
-
-\cleardoublepage
-
-## Kokiri
-
-*“The children of the forest, the
-Kokiri, live here with me.”*
-
-Referred to as the children of the forest, the Kokiri are forest spirits born from ancient trees in the deep forests of Hyrule. Being spirits of the forest, they can live practically indefinitely. They do not age, but remain children in form. This may lead to horrible misconceptions about their wisdom.
-
-It is said that if children become lost in the sacred forest, that they could become Kokiri. However, they could also become a Stalkid (Skull Kid) if they do not have the blessings of the forest spirits.
-
-Most Kokiri never leave their villages or the safety of the forbidden forest. Hylians that don't live on the edges of the sacred forest might not have met anyone who has seen a Kokiri. Moreover most residents of Hyrule might mistake a Kokiri for a Hylian child.
-
-They live as embodiments of nature, and spend most of their time taking care of the forest and its animal inhabitants. Occasionally the desire to perform some greater task will cause a Kokiri to leave the sacred forest, but these occurrences are rather rare.
-
-The Kokiri's stealthy nature, wisdom, and charisma make them suited to casting, trading, thieving, or acting as an agent.
-
-### Kokiri Traits
-
-**Ability Score Increase:**
-Your wisdom increases by 2; your charisma increases by 1.
-
-**Age:**
-As a forest spirit in their own right, they are manifested as child-guardians of trees. They can live indefinitely as long as they still have a glade to call home.
-
-**Alignment:**
-There are no evil Kokiri, and they don't float to idealistic extremes either. Most Kokiri would be considered true good or true neutral. 
-
-**Size:**
-Kokiri are usually 4 feet tall or less and less than 80 pounds. Your size is small.
-
-**Speed:**
-Your base walking speed is 25 feet.
-
-**Languages:**
-You can read, write, and speak Common and Kokiri.
-
-**Darkvision:**
-The Kokiri are used to traversing the forests at night. You can see in dim light within 60 feet of you as if it were bright light, and darkness as if it were dimly lit. You can't discern color in darkness, only shades of grey.
-
-**Fade to Green:**
-You can attempt to hide even when you are only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomena.
-
-**Kokiri Stealth:**
-You can attempt to hide even when you are obscured by a creature one size larger than yourself (medium or larger).
 
 \cleardoublepage
 
