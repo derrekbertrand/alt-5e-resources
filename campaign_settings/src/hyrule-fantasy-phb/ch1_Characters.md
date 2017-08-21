@@ -24,14 +24,12 @@ Sheikah (+1)
 Zora (+2)
 
 **Wisdom**  
-Deku (+2)  
-Hylain (+1)  
-Kokiri (+2)
+Forest Children (+2)  
+Hylain (+1)
 
 **Charisma**  
 Gerudo (+1)  
-Hylian (+1)  
-Kokiri (+1)
+Hylian (+1)
 
 ## Languages of Hyrule
 
