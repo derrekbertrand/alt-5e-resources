@@ -60,6 +60,9 @@ As a standard action, you may burrow into soft ground and take on the *burrowed*
 - You automatically fail Wisdom and Dexterity savings throws.
 - Your only action while burrowed is to un-burrow yourself as a bonus action.
 
+**Deku Hop:**
+You are quite boyant. When performing a dash action, you can walk on top of water as if it were difficult terrain. If you end your turn on water, you immediately fall into the water.
+
 **Deku Nut:**
 You can produce and spit a small Deku Nut. This is considered an attack with a simple ranged weapon, and you have proficiency. The range is 30/60 and the damage is 1d4 bludgeoning.
 
