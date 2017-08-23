@@ -81,7 +81,7 @@ Your Charisma increases by 1.
 Koroks are another form of forest spirit that evolved to cover great distances with flight.
 
 **Deku Leaf:**
-You are light and can spin your leaf like a propeller to fly. You can fly as part of your movement. Your fly speed is 10 feet. You can fly for up to 30 seconds (5 rounds) at a time, after which you begin to fall. You cannot fly again until you walk on solid ground.
+You are light and can spin your leaf like a propeller to fly. Your fly speed is 10 feet. You can fly continuously for up to 1 minute, as long as you maintain concentration. You cannot exceed an altitude of 20 feet from where you began flight.
 
 **Wooden Body:**
 Your body is wooden in nature. You have weakness to Fire damage.
