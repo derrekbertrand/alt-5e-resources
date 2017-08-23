@@ -42,9 +42,26 @@ You are a spirit of nature. Beasts, plants, and other natural creatures react to
 You are familiar with using plants and animals to create various effects. You gain proficiency with your choice of Herbalism Kits or Poisoner's Kits.
 
 **Subrace:**
-Forest Children may manifest in various ways, and the commonality of these depends on location and realm. You choose one subrace.
+Forest Children may manifest in various ways, and the commonality of these depends on location and realm. You choose one subrace, subject do DM approval.
 
 ### Deku
+
+The Deku are a shrub-like race known for their ambush tactics.
+
+**Deku Burrow:**
+As a standard action, you may burrow into soft ground and take on the *burrowed* state. When in the burrowed state, your leaves are still above ground, allowing you to breathe.
+
+*Burrowed state:*
+
+- You cannot see or speak, but can still hear like normal.
+- Your walking speed is 0.
+- Attacks made against you have disadvantage.
+- You appear to be a small shrub. A DC 13 Wisdom (Nature) or Intelligence (Investigation) check will reveal you for what you are.
+- You automatically fail Wisdom and Dexterity savings throws.
+- Your only action while burrowed is to un-burrow yourself as a bonus action.
+
+**Deku Nut:**
+You can produce and spit a small Deku Nut. This is considered an attack with a simple ranged weapon, and you have proficiency. The range is 30/60 and the damage is 1d4 bludgeoning.
 
 **Wooden Body:**
 Your body is wooden in nature. You have weakness to Fire damage.
