@@ -57,7 +57,7 @@ As a standard action, you may burrow into soft ground and take on the *burrowed*
 - Your walking speed is 0.
 - Attacks made against you have disadvantage.
 - You appear to be a small shrub. A DC 13 Wisdom (Nature) or Intelligence (Investigation) check will reveal you for what you are.
-- You automatically fail Wisdom and Dexterity savings throws.
+- You have disadvantage on Wisdom and Dexterity savings throws.
 - Your only action while burrowed is to un-burrow yourself as a bonus action.
 
 **Deku Hop:**
@@ -77,6 +77,14 @@ The adorable Kokiri, the children of the forest, eternally appear to be Hylian c
 Your Charisma increases by 1.
 
 ### Korok
+
+Koroks are another form of forest spirit that evolved to cover great distances with flight.
+
+**Deku Leaf:**
+You are light and can spin your leaf like a propeller to fly. You can fly as part of your movement. Your fly speed is 10 feet. You can fly for up to 30 seconds (5 rounds) at a time, after which you begin to fall. You cannot fly again until you walk on solid ground.
+
+**Wooden Body:**
+Your body is wooden in nature. You have weakness to Fire damage.
 
 \cleardoublepage
 
