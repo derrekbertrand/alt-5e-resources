@@ -260,6 +260,40 @@ You can read, write, and speak Common and Sheikah.
 
 \cleardoublepage
 
+## Twili
+
+*“SOME TWILI QUOTE”*
+
+Flavor and description.
+
+### Twili Traits
+
+**Ability Score Increase:**
+Your Intelligence increases by 1; your Constitution increases by 1.
+
+**Age:**
+Twili age at the same rate as humans, but can live hundreds of years.
+
+**Alignment:**
+Twili tend towards Chaotic Good.
+
+**Size:**
+Anywhere from 6 to 7 feet tall, maybe more. They can weigh anywhere from 100 to 200 pounds. Your size is medium.
+
+**Speed:**
+Your base walking speed is 30 feet, and your swimming speed is 30 feet.
+
+**Languages:**
+You can speak, read, and write Common and Twili.
+
+**Banished From Light:**
+You are weak to radiant damage.
+
+**Of the Shadows:**
+You always have advantage on skill checks for Stealth in dim or dark light.
+
+\cleardoublepage
+
 ## Zora
 
 *“We are the Zoras, the proud aquatic people!”*
